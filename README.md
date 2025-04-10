@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Мои навыки: Програмирование; дизайн аватарок, превью и шапок для ютуба и других соц. сетей;
+<img src=" width="10%">
 <!--
 **Artichek/Artichek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
